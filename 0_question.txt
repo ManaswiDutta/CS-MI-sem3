@@ -1,0 +1,89 @@
+For a given float number, print the integer part and decimal part separately.
+Find the largest and smallest among 3 given numbers using ternary operator.
+Use ternary operator to print corresponding grades to marks.
+Print the following patters using for loop:
+a)	
+*
+* *
+* * * 
+* * * *
+
+b)	
+* * * *
+* * *
+* *
+*
+
+c)* * * *
+    * * *
+      * *
+        *
+
+d)	   *   
+     *   *  
+   *   *   *
+ *   *   *   *
+
+5. Print the reverse number of a positive integer. (1234 -> 4321)
+6. Evaluate the sum of all the digits of a number.
+7. Write a code to convert Decimal to Binary.
+8. Write a code to covert Binary to decimal.
+9. Print fibonacci series upto n number.
+10. Print all primary numbers upto n.
+11. Print first n primary numbers.
+12. Check if a number is pallindrome.
+13. Print the following patterns based on the number of rows given by the user:
+	
+	a)   1
+	    101
+	   10101
+	  1010101
+
+	b) 1
+	   12
+	   123
+	   1234
+	
+	c)   A
+	    ABC
+	   ABCDE
+      ABCDEFG
+
+	
+	d)  ABCDCBA
+	    ABC CBA
+	    AB   BA
+	    A     A
+  
+
+	e) 0
+	    12
+    345
+    6789
+
+
+
+F)  0
+    12
+    234
+    3456
+
+14. Write a programme to take input n numbers and sort them in ascending order.
+15. Write a programme to take 2 set of numbers in 2 different arrays and merge them in new sorted array.
+16. Write a programme to find the maximum and minimum number among 2 arrays.
+17. Write a programme to do  
+A) matrix addition 
+B) matrix multiplication
+
+18. Write a programme to do matrix addition without using multidimensional array.
+19. Write a programme to Create an array of pointers to store 10 integer values and display them.
+20. Use array of pointers to store 10 names and arrange them in alphabetical order (string compare)
+21. Write a programme to swap the values of 2 integer variables using a function.
+22. Write a programme to use struct to create a list of students with their name, age , roll no and department and show them    
+a)Based on increment of age
+b)Based on alphabetical order of names
+23. Use struct to perform addition , subtraction and multiplication of complex numbers.
+24. Write a programme to copy the contents of one file to another file.
+25. Write a programme to find the occurrence of a given word in a text file.
+26. Write a programme to find the largest word in a file.
+27. Write a programme to find all the unique words in a file.
