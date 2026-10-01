@@ -1,7 +1,7 @@
-For a given float number, print the integer part and decimal part separately.
-Find the largest and smallest among 3 given numbers using ternary operator.
-Use ternary operator to print corresponding grades to marks.
-Print the following patters using for loop:
+1. For a given float number, print the integer part and decimal part separately.
+2. Find the largest and smallest among 3 given numbers using ternary operator.
+3. Use ternary operator to print corresponding grades to marks.
+4. Print the following patters using for loop:
 a)	
 *
 * *
