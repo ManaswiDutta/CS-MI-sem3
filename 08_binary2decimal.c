@@ -17,5 +17,5 @@ int main()
         binary = binary / 10;
         position += 1;
     }
-    printf("%c", dec);
+    printf("%d", dec);
 }

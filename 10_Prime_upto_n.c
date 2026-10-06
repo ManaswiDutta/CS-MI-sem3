@@ -36,6 +36,4 @@ int main()
             n += 1;
         }
     }
-
-    scanf("%d",&flag);
 }

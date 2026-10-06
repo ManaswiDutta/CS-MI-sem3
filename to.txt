@@ -1,0 +1,4 @@
+one two three four
+New Delhi is the capital of India.
+I am writing the code in C.
+

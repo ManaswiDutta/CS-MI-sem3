@@ -13,6 +13,4 @@ int main() {
     }
 
     printf("%d --> %d\n", orig, bin);
-
-    return 0;
 }

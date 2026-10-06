@@ -1,0 +1,2 @@
+this is an example file i have created inorder to check if the code is working
+the code will go thourgh the file and find the number of occurences of the given word
